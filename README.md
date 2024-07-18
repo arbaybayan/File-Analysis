@@ -1,5 +1,5 @@
 # File-Analysis
-# Image Analysis Program
+# Image Analysis Script
 
 ## Overview
 
